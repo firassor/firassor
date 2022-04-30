@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @firassor
+- 👀 I’m interested in learning cyber-securety
+- 🌱 I’m currently learning coding
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me my email or insta @firassor_g
+- love if you help me learn how to act with metasploit and the terminal thx
